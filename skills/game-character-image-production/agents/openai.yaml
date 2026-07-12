@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Character Image Production"
+  short_description: "Produce consistent character image sets from formal briefs."
+  default_prompt: "Generate or revise character art while preserving project-owned style, naming, and acceptance rules supplied at runtime."

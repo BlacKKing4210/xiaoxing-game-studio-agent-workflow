@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot最小功能切片实施"
+  short_description: "Implement and verify narrow approved Godot feature slices"
+  default_prompt: "读取已批准的功能合同和项目上下文，先核对基线、文件范围与真实行为验收，再小范围实施并完成回归与清理。"

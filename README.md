@@ -69,8 +69,24 @@ The repository root is a Codex plugin. Add the cloned folder as a local plugin i
 
 - `game-studio-orchestrator`
 - `game-pm-execution-ops`
+- `lean-game-design-director`
+- `game-design-doc-generator`
+- `game-system-delivery-pipeline`
+- `godot-feature-slice-implementation`
+- `ui-design-priority`
+- `game-character-image-production`
+- `game-unit-sideview-production`
+- `game-walk-sequence-ingest`
+- `game-sprite-animation-pipeline`
+- `game-looping-scene-layer-production`
+- `game-scene-layer-conversion`
+- `game-batch-raster-asset-board-production`
 
 The plugin is optional. The templates can be used independently.
+
+Project-specific context adapters are intentionally not included as active Skills. Start from [the adapter template](templates/project-adapter-skill/SKILL.md) and keep project paths, IDs, values, and source baselines local.
+
+Bundled or external companion Skills such as `imagegen`, `documents`, `spreadsheets`, and `skill-creator` remain dependencies of the host Codex installation and are not copied into this repository.
 
 ## Documentation
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Raster Asset Board Production"
+  short_description: "Review a whole raster asset set before splitting final files"
+  default_prompt: "Use $game-batch-raster-asset-board-production to approve a coherent raster asset set on one board, then split and normalize the approved pixels."

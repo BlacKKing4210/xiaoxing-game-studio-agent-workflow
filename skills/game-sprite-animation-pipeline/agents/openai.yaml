@@ -1,0 +1,4 @@
+interface:
+  display_name: Game Sprite Animation Pipeline
+  short_description: Plan AI game sprite sheets and frame workflows.
+  default_prompt: Use $game-sprite-animation-pipeline to plan a practical AI workflow for game character sequence frames, sprite sheets, pose control, looping, and cleanup.

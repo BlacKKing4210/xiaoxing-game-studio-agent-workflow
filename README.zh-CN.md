@@ -48,3 +48,9 @@ cd game-studio-agent-workflow
 ## 隐私
 
 公开仓库不包含任何具体游戏的路径、线程ID、哈希、角色资料、数值、素材或内部任务记录。所有项目事实都应放入本地 Profile 与活动范围文件。
+
+## 内置 Skill
+
+公开插件当前包含14个通用 Skill：工作室总控、PM执行巡检、精简主策、策划文档交付、系统交付、Godot切片、UI优先级、角色图、侧视单位、序列帧接入、动画管线、循环场景、场景层转换和批量资产整板。
+
+项目专用上下文不会直接公开；使用 `templates/project-adapter-skill/SKILL.md` 创建本地适配器。系统自带的 `imagegen`、`documents`、`spreadsheets` 和 `skill-creator` 作为依赖使用，不重复打包。

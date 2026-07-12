@@ -1,6 +1,6 @@
 {
   "name": "game-studio-agent-workflow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A producer-led, evidence-driven multi-agent workflow for shipping game features with Codex.",
   "author": {
     "name": "xiaoxingwang986-cyber"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scene Layer Conversion"
+  short_description: "Consolidate 2D scene layers with alpha and loop QA."
+  default_prompt: "Use $game-scene-layer-conversion to plan a safe, evidence-backed reduction of approved 2D scene layers."

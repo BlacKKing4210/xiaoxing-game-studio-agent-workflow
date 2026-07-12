@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Priority"
+  short_description: "Prioritize UI mockup content before generating visuals."
+  default_prompt: "Analyze the most important decision content in a UI, rank information priority, and generate or revise the UI so the main content is visually strengthened."

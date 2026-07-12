@@ -1,0 +1,4 @@
+interface:
+  display_name: "Looping Scene Layer Production"
+  short_description: "Produce safe, independently looping 2D scene layers"
+  default_prompt: "Use $game-looping-scene-layer-production to plan and QA a contract-defined 2D looping scene-layer package."

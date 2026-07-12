@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game System Delivery Pipeline"
+  short_description: "Build implementation-ready game system packages."
+  default_prompt: "Turn an approved game-system brief into coherent design, data, UI, QA, and handoff artifacts."

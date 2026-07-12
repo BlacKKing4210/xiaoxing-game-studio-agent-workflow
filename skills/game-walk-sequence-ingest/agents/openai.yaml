@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Walk Sequence Ingest"
+  short_description: "Normalize and integrate game character action sequences."
+  default_prompt: "Normalize action video frames, archive approved outputs, and prepare runtime configuration using a supplied project profile."

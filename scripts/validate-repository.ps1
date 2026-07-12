@@ -9,9 +9,12 @@ $pluginValidator = Join-Path $env:USERPROFILE '.codex\skills\.system\plugin-crea
 
 & (Join-Path $root 'scripts\check-sanitization.ps1') -Root $root
 
-foreach ($skill in @('game-studio-orchestrator', 'game-pm-execution-ops')) {
-    & $python $skillValidator (Join-Path $root "skills\$skill")
-    if ($LASTEXITCODE -ne 0) { throw "Skill validation failed: $skill" }
+$skills = Get-ChildItem -LiteralPath (Join-Path $root 'skills') -Directory |
+    Where-Object { Test-Path -LiteralPath (Join-Path $_.FullName 'SKILL.md') }
+if ($skills.Count -lt 14) { throw "Expected at least 14 Skills, found $($skills.Count)." }
+foreach ($skill in $skills) {
+    & $python $skillValidator $skill.FullName
+    if ($LASTEXITCODE -ne 0) { throw "Skill validation failed: $($skill.Name)" }
 }
 
 & $python $pluginValidator $root

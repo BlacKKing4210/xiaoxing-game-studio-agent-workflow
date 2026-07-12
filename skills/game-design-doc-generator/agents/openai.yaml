@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Design Doc Generator"
+  short_description: "Generate complete game design docs with visuals and specs."
+  default_prompt: "Use $game-design-doc-generator to create a complete game system design package from my requirements."

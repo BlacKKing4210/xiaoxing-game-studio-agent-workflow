@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Unit Sideview Production"
+  short_description: "Produce and validate reusable side-view game units."
+  default_prompt: "Create a game-ready side-view unit from approved art using caller-supplied canvas and baseline specifications."
