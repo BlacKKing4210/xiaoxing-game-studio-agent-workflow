@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+tmp/
+temp/
+*.log
+*.bak
+*.tmp
+~$*
+
+# Godot
+.godot/
+.godot_user/
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Unreal
+Saved/
+Intermediate/
+DerivedDataCache/

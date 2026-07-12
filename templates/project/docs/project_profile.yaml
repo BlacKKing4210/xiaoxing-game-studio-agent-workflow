@@ -1,0 +1,36 @@
+schema_version: 1
+project:
+  name: "{{PROJECT_NAME}}"
+  root: '{{PROJECT_ROOT}}'
+  engine: "{{ENGINE}}"
+  stage: prototype
+
+formal_sources:
+  workflow: docs/WORKFLOW.md
+  handoff: docs/PM_HANDOFF.md
+  active_scope: docs/active_scope.yaml
+  feature_progress: PM/feature_progress.xlsx
+  design_index: docs/design_index.md
+  config_index: docs/config_index.md
+
+runtime:
+  project_path: '{{PROJECT_ROOT}}'
+  candidate_paths: []
+  formal_asset_paths: []
+  task_temporary_root: tmp
+
+roles:
+  producer: null
+  design_owner: null
+  engineering_owner: null
+  art_owner: null
+  pm_execution_operator: null
+
+rules:
+  one_active_producer: true
+  execution_requires_read_only_receipt: true
+  execution_requires_owner_write_authorization: true
+  one_writer_per_shared_file: true
+  existing_final_assets_have_priority: true
+  ui_temporary_visuals_allowed: true
+  non_ui_art_final_quality_from_first_production: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game PM Execution Ops"
+  short_description: "Audit active game tasks without taking PM authority."
+  default_prompt: "Inspect the current batch for blockers, drift, evidence gaps, and cleanup issues."

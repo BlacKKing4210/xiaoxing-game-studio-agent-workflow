@@ -1,0 +1,18 @@
+{
+  "name": "game-studio-agent-workflow",
+  "version": "0.1.0",
+  "description": "A producer-led, evidence-driven multi-agent workflow for shipping game features with Codex.",
+  "author": {
+    "name": "xiaoxingwang986-cyber"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Game Studio Agent Workflow",
+    "shortDescription": "Run a small AI game studio with clear gates and playable proof.",
+    "longDescription": "Adds a reusable producer, design, engineering, art, execution, monitoring, handoff, and feature-progress workflow for game projects.",
+    "developerName": "xiaoxingwang986-cyber",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Set up this game project with the producer-led studio workflow and continue from the highest-priority ready feature."
+  }
+}

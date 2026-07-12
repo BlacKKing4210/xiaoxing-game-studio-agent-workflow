@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Studio Orchestrator"
+  short_description: "Coordinate a producer-led AI game studio."
+  default_prompt: "Set up or continue this game project using the producer-led studio workflow."
