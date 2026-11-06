@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "kind": "audio_requirement",
+  "columns": [
+    {
+      "column": 1,
+      "name": "序号"
+    },
+    {
+      "column": 2,
+      "name": "模块"
+    },
+    {
+      "column": 3,
+      "name": "程序Event Name"
+    },
+    {
+      "column": 4,
+      "name": "WWISE事件"
+    },
+    {
+      "column": 5,
+      "name": "名称"
+    },
+    {
+      "column": 6,
+      "name": "策划说明"
+    },
+    {
+      "column": 7,
+      "name": "对接程序"
+    },
+    {
+      "column": 8,
+      "name": "状态"
+    },
+    {
+      "column": 9,
+      "name": "备注"
+    },
+    {
+      "column": 10,
+      "name": "图示"
+    },
+    {
+      "column": 11,
+      "name": "视频文件"
+    },
+    {
+      "column": 12,
+      "name": "策划"
+    },
+    {
+      "column": 13,
+      "name": "合入时间"
+    }
+  ],
+  "merged_data_cells": false,
+  "split_sheets_by": "actual_design_or_module",
+  "unknown_fields": "leave_blank",
+  "description_covers": [
+    "触发时点",
+    "停止",
+    "循环",
+    "动作同步",
+    "并发去重",
+    "复用",
+    "静音"
+  ],
+  "rows": []
+}

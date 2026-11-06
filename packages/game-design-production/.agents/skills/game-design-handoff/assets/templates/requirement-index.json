@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "snapshot_at": null,
+  "owner": null,
+  "categories": {
+    "design": {
+      "current_sources": [],
+      "standards": [],
+      "entries": []
+    },
+    "art": {
+      "current_sources": [],
+      "standards": [],
+      "entries": []
+    },
+    "directory": {
+      "current_sources": [],
+      "standards": [],
+      "entries": []
+    },
+    "audio": {
+      "current_sources": [],
+      "standards": [],
+      "entries": []
+    }
+  },
+  "unmerged_entries": [],
+  "limitations": [],
+  "is_realtime": false
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "kind": "configuration_only",
+  "header_rows": [
+    {
+      "row": 1,
+      "meaning": "中文说明"
+    },
+    {
+      "row": 2,
+      "meaning": "字段类型"
+    },
+    {
+      "row": 3,
+      "meaning": "英文字段"
+    }
+  ],
+  "data_start_row": 4,
+  "freeze": {
+    "main": "B2",
+    "guide": "A2"
+  },
+  "gridlines": false,
+  "auto_filter": false,
+  "merged_title": false,
+  "guide_columns": [
+    "项目",
+    "说明"
+  ],
+  "field_contract_fields": [
+    "sheet",
+    "name",
+    "description",
+    "type",
+    "unit",
+    "required",
+    "default",
+    "range_or_enum",
+    "primary_key",
+    "reference",
+    "null_behavior",
+    "example_only"
+  ],
+  "fields": [],
+  "data": [],
+  "guide": [],
+  "not_for": [
+    "Word",
+    "美术需求",
+    "资源目录",
+    "音效表"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "video_source": null,
+  "events": [],
+  "entry_fields": [
+    "id",
+    "time_start",
+    "time_end",
+    "observed_action",
+    "ui_state",
+    "sound",
+    "result",
+    "classification",
+    "inference_basis",
+    "open_question",
+    "frame_reference"
+  ],
+  "classifications": [
+    "OBSERVED",
+    "INFERRED",
+    "UNKNOWN"
+  ]
+}

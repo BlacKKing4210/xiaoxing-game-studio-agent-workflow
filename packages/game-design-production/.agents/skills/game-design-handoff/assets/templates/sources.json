@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "sources": [],
+  "entry_fields": [
+    "id",
+    "role",
+    "location",
+    "sheet_or_section",
+    "version",
+    "read_at",
+    "sha256_if_file",
+    "authority_basis",
+    "coverage",
+    "limitations"
+  ]
+}

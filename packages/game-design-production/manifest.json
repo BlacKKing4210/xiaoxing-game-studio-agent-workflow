@@ -1,0 +1,179 @@
+{
+  "package": "game-design-production",
+  "version": "1.0.0",
+  "date": "2026-11-06",
+  "license": "MIT",
+  "description": "独立中文游戏策划与资源交接流程包；不含公司原件或账号资料",
+  "files": [
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/acceptance.json",
+      "bytes": 618,
+      "sha256": "4fd32a320faaf324c305f2db6ab824e17163bfebecb3890e880731d93bee0170"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/art-contract.json",
+      "bytes": 1264,
+      "sha256": "7fab1daa7dbb5afac74a1e9cde5b85b1085be2f31951b2d207e0d01074f8dbf6"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/audio-contract.json",
+      "bytes": 1111,
+      "sha256": "95cb83688c470bdb7c13c01049420dbc324f3b5909f66af07920776e043a7fa8"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/change-record.json",
+      "bytes": 447,
+      "sha256": "80cdfe663d86c979d45c65534564b4bc039b3cf2b60e69cfbc617d578df4a1a2"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/configuration-contract.json",
+      "bytes": 833,
+      "sha256": "b55298c98935bfbdc384068e0ba9ea603ffe6ce22ac98ba533b927022e8e5e4d"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/design-document.md",
+      "bytes": 1847,
+      "sha256": "1ed4c4c95bccc803a189cf3e39e8008c92698d2eeffc91640d9af0e5b6c936cf"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/directory-contract.json",
+      "bytes": 1050,
+      "sha256": "82eb117fbbdec10f0c00026482f080cb24021097baca8b90fb3afc50eb8a284c"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/index.md",
+      "bytes": 1534,
+      "sha256": "4ba62156bb9788762554efbf56bc1dfab83e57ed87f92414c9645c282c06d123"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/knowledge-entry.json",
+      "bytes": 369,
+      "sha256": "f9bbfe58c8ad25077ac79e0c4c1d7a8aed80fb5eae0be39f439fd8686d1714d6"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/media-brief.md",
+      "bytes": 621,
+      "sha256": "9744203af610df27236df7f034b6d883eebbcf41140acb0e132f119517cfad0f"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/permanent-rule-proposal.md",
+      "bytes": 677,
+      "sha256": "3c20d2df9d890d5ac0a0ad0a9f5c177d5431ae5f6793c29c808029fee4e5faa2"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/project-profile.json",
+      "bytes": 507,
+      "sha256": "92721ac8e2cdc159d476289648e719fbe4e1f7c466255d5dc68781659f397a63"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/requirement-index.json",
+      "bytes": 542,
+      "sha256": "c74f6a7dacc1368ca3444b8789cade8340263d6de0f988800a79bb02d889ceec"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/shared-state.json",
+      "bytes": 365,
+      "sha256": "d227c99d8eaccd6fd9232a752b14d7504766d97a1d64096219fccf8c5827257b"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/sources.json",
+      "bytes": 243,
+      "sha256": "a841134962243dd33db8126731a53eedfde3c6159ad2787396fd231845661896"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/assets/templates/video-evidence.json",
+      "bytes": 367,
+      "sha256": "837e0dc7dbcb0fe0759b4af50bef5a9fad5565dacd15c1812cb1e5b23fc6ab56"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/01-intake.md",
+      "bytes": 1983,
+      "sha256": "d3f3cef12b6572709e5cd2904145a4acd256ffaf356a16e20afcaaf18bf4cafd"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/02-design.md",
+      "bytes": 2640,
+      "sha256": "b63eaf87cd95b9d23d6f45b812993dbcbbb57c9a154db40fb580c89f7e4c4a6c"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/03-configuration.md",
+      "bytes": 1730,
+      "sha256": "ef793cad061354ce92eec76a1682d0cdfa29a3e6f6f7099f065a747e6eb780a7"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/04-art.md",
+      "bytes": 2063,
+      "sha256": "26128bf67b5096a5f58517991f6411b8b49afe7eb3fa3799dcb805c6f71aed5b"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/05-directory.md",
+      "bytes": 1491,
+      "sha256": "7d522108d551fcd51c4cce05b7a68f89a3cdbe82441f661f0992c5071661b89b"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/06-audio.md",
+      "bytes": 1682,
+      "sha256": "660139fd1fb2067f703d3012214dbe36a8d537ddb4b23ad2486759e445fd261e"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/07-ui-media.md",
+      "bytes": 1807,
+      "sha256": "31c1eb128f0b12cba780b22bc6ccee8eff5e73e56ad5a8d533ccd30f9196e0f5"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/08-quality.md",
+      "bytes": 2034,
+      "sha256": "cbdf17cc9ce661e0fbee1fe38beb25efe434291ba94cb81dba8c4c96ba23483e"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/09-revisions.md",
+      "bytes": 2256,
+      "sha256": "001532ee20cd99a45c3358977b6dac298e57fe0d8ea4c69e33ace44a0554cec6"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/references/example.md",
+      "bytes": 2934,
+      "sha256": "605f804b0b1c60703e5eb157d3ff4b9ce42396e1db5527136935b5e84435863a"
+    },
+    {
+      "path": ".agents/skills/game-design-handoff/SKILL.md",
+      "bytes": 2672,
+      "sha256": "2925647c9f06579c4d77f2ebdbbf5cfcd83d336be11598bc584ca6335cb03c67"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1013,
+      "sha256": "61973b354ee6336643300e6919e6580f1b189188041be4c3ba8c7912d7ed7d8f"
+    },
+    {
+      "path": "docs/getting-started.md",
+      "bytes": 2769,
+      "sha256": "6c76e3671ea7ed3a0a099e5dde89ad7f2b1ce3b2a1fa6745e6735661c0af4228"
+    },
+    {
+      "path": "docs/publication.md",
+      "bytes": 1635,
+      "sha256": "41062991c5eb93a32de5b36452ba23aa97a449996c08a588919df945750cf917"
+    },
+    {
+      "path": "docs/validation.md",
+      "bytes": 1740,
+      "sha256": "e9638654470730cd090f7186e1f2b5e2959a38645c0229d6f5ac86bceffe0f47"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1078,
+      "sha256": "0c82c336f938f37803f2b970408c73ecead0bbabcc60c4368d0fc063d692679f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4778,
+      "sha256": "9dae3ab1deccd829ff4356b7cb1c5432903363ee7e4c2dbcb2aaff3015a6da39"
+    },
+    {
+      "path": "scripts/verify_package.py",
+      "bytes": 3441,
+      "sha256": "65d1295d48178d7c71814aba289175c815ec0e8f3b137b121722782b426eca45"
+    }
+  ]
+}

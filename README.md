@@ -1,5 +1,8 @@
 # Game Studio Agent Workflow
 
+> **中文策划与资源交接总流程包（独立使用）**：[在线说明](packages/game-design-production/README.md) · [下载 ZIP](downloads/game-design-production-v1.0.0.zip)  
+> 覆盖策划案、配置、美术需求、资源目录、音效、UI、修订与验收，附空白模板和可复制 Skill。此包无需启用下方旧版多角色插件；使用范围及能力边界见包内说明。
+
 A producer-led, evidence-driven workflow for running a small game studio with Codex agents.
 
 It turns natural-language production requests into scoped design, engineering, art, QA, and handoff work while keeping one accountable producer, short-lived execution tasks, explicit write ownership, playable evidence, and a feature-level progress matrix.

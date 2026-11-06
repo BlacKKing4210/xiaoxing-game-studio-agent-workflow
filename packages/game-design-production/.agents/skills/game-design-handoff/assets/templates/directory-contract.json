@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "kind": "resource_directory",
+  "columns": [
+    {
+      "column": 1,
+      "name": "需求编号"
+    },
+    {
+      "column": 2,
+      "name": "资源名称"
+    },
+    {
+      "column": 3,
+      "name": "模块"
+    },
+    {
+      "column": 4,
+      "name": "类型"
+    },
+    {
+      "column": 5,
+      "name": "数量"
+    },
+    {
+      "column": 6,
+      "name": "单位"
+    },
+    {
+      "column": 7,
+      "name": "新制/复用"
+    },
+    {
+      "column": 8,
+      "name": "主资源编号"
+    },
+    {
+      "column": 9,
+      "name": "详情位置"
+    },
+    {
+      "column": 10,
+      "name": "需求状态"
+    },
+    {
+      "column": 11,
+      "name": "制作状态"
+    },
+    {
+      "column": 12,
+      "name": "入端/验收证据"
+    },
+    {
+      "column": 13,
+      "name": "版本范围"
+    },
+    {
+      "column": 14,
+      "name": "待确认说明"
+    }
+  ],
+  "dedup_key": "confirmed_resource_id",
+  "shared_quantity_policy": "count_new_work_in_owner_entry_only",
+  "rows": []
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "id": null,
+  "title": null,
+  "recorded_at": null,
+  "status": "DRAFT",
+  "category": null,
+  "user_quote": null,
+  "assistant_summary": null,
+  "reason": null,
+  "reason_source": null,
+  "scope": null,
+  "source": null,
+  "approval_basis": null,
+  "supersedes": [],
+  "affected_artifacts": [],
+  "evidence": [],
+  "reported_by": null
+}

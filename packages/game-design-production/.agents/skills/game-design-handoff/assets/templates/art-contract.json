@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "kind": "art_requirement",
+  "columns": [
+    {
+      "column": 1,
+      "name": "编号"
+    },
+    {
+      "column": 2,
+      "name": "名称"
+    },
+    {
+      "column": 3,
+      "name": "资源命名/ID"
+    },
+    {
+      "column": 4,
+      "name": "状态"
+    },
+    {
+      "column": 5,
+      "name": "类型"
+    },
+    {
+      "column": 6,
+      "name": "数量"
+    },
+    {
+      "column": 7,
+      "name": "优先级"
+    },
+    {
+      "column": 8,
+      "name": "描述"
+    },
+    {
+      "column": 9,
+      "name": "示意图1"
+    },
+    {
+      "column": 10,
+      "name": "示意图2"
+    },
+    {
+      "column": 11,
+      "name": "策划责任人"
+    },
+    {
+      "column": 12,
+      "name": "美术责任人"
+    },
+    {
+      "column": 13,
+      "name": "预计完成时间"
+    },
+    {
+      "column": 14,
+      "name": "提交时间"
+    }
+  ],
+  "description_covers": [
+    "用途",
+    "必要状态",
+    "动作衔接",
+    "数量单位",
+    "新制/复用",
+    "参考适用范围",
+    "验收"
+  ],
+  "quantity_semantics": [
+    "套/组/个/枚等单位",
+    "需求条数不等于文件数",
+    "共享资源归属唯一"
+  ],
+  "unknown_people_or_dates": "leave_blank",
+  "rows": []
+}

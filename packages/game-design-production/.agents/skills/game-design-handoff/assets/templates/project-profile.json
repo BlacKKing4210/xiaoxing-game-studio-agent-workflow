@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "binding_status": "UNBOUND",
+  "project_id": null,
+  "project_name": null,
+  "project_root": null,
+  "authoritative_sources": [],
+  "output_directory": null,
+  "planner": null,
+  "document_version": "1.0",
+  "start_date": null,
+  "end_date": null,
+  "task_scope": null,
+  "requested_deliverables": [],
+  "out_of_scope": [],
+  "completion_criteria": [],
+  "available_capabilities": [],
+  "missing_capabilities": [],
+  "permanent_rule_changes_require_each_confirmation": true
+}

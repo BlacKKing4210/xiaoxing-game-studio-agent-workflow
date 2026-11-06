@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "id": null,
+  "source": null,
+  "baseline_file": null,
+  "baseline_sha256": null,
+  "output_file": null,
+  "changed_at": null,
+  "user_quote": null,
+  "changes": [],
+  "entry_fields": [
+    "location",
+    "before",
+    "after",
+    "reason",
+    "status",
+    "scope",
+    "dependencies",
+    "verification"
+  ],
+  "source_original_unchanged": null,
+  "permanent_rule_changed": false,
+  "approval_evidence": null
+}

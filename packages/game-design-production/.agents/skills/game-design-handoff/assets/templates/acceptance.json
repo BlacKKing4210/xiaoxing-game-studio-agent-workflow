@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "deliverable": null,
+  "baseline": null,
+  "scope": null,
+  "status": "NOT_RUN",
+  "checks": [],
+  "check_fields": [
+    "id",
+    "layer",
+    "target",
+    "method",
+    "expected",
+    "actual",
+    "evidence",
+    "result",
+    "checked_at",
+    "checker"
+  ],
+  "result_values": [
+    "NOT_RUN",
+    "PASS",
+    "FAIL",
+    "NOT_APPLICABLE"
+  ],
+  "layers": [
+    "structure",
+    "semantic",
+    "visual",
+    "native_or_runtime"
+  ],
+  "original_source_preserved": null,
+  "unresolved": [],
+  "delivered_at": null,
+  "user_accepted_at": null,
+  "user_acceptance_evidence": null
+}
